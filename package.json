@@ -1,0 +1,12 @@
+{
+  "name": "zaammusic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ZaamMusic - audio-only music search & top hits player, using YouTube's internal search API directly (no HTML scraping) + node-cache, deployable on Netlify.",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "node-cache": "^5.1.2"
+  }
+}
